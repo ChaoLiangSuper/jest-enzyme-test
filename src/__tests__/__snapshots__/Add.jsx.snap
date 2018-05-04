@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render default component 1`] = `
+<div>
+  add: 
+  0
+</div>
+`;
+
+exports[`should render with provided props 1`] = `
+<div>
+  add: 
+  2
+</div>
+`;

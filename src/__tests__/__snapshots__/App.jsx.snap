@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render default component 1`] = `
+Array [
+  <div>
+    add: 
+    4
+  </div>,
+  <div>
+    getBiggerNum: 
+    3
+  </div>,
+]
+`;
